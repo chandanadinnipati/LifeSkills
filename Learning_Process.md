@@ -27,11 +27,11 @@ The most interesting thing in this video was about the Pomodoro Technique:
 
 ## 5.What are some of the actions you can take going forward to improve your learning process?
 
-- Identify What I need to Learn
-- Know Why I need to Learn
-- Find the resources to learn
-- Note important points
-- Practise on it
+- I will develop learning in focus mode
+- Identify what and why I need to Learn
+- Set time for learning thing 
+- Overcoming Procrastination by doing work on time
+- practise what I learn and review it 
 
 
 
