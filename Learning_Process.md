@@ -30,7 +30,7 @@ The most interesting thing in this video was about the Pomodoro Technique:
 - Identify What I need to Learn
 - Know Why I need to Learn
 - Find the resources to learn
-- Note importent points
+- Note important points
 - Practise on it
 
 
