@@ -1,5 +1,5 @@
 
-##1. What is the Feynman Technique? 
+## 1. What is the Feynman Technique? 
 The Feynman Technique is a method for learning and understanding complex concepts by simplifying them and explaining them in plain language.
 ```If you can not Expline it simply, Then you Don't understand it well Enough ```
 
