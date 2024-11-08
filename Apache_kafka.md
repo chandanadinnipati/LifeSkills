@@ -36,7 +36,7 @@ Apache Kafka is a software platform that has the following reasons which best fi
 
 - **Data Ecosystem**: It is necessary to note that several applications built to operate with Apache Kafka form an ecosystem. This ecosystem is made for processing the data. This system receives inputs in the form of applications that manifest data, while output is expressed in terms of a set or metrics, reports etc. The below diagram is a circulatory data ecosystem of Kafka.
 - **Kafka Cluster**: Kafka cluster is a system made up of brokers, topics, and the partitions for each topic. Only the cluster is able to write data to the topic and it also reads it.
-- **Producers**: A producer puts data/messages into a topic within the cluster. For min بصرفهlarge storage of data, different producers from within an application can send the data to the Kafka cluster.
+- **Producers**: A producer puts data/messages into a topic within the cluster. For large storage of data, different producers from within an application can send the data to the Kafka cluster.
 - **Consumers**: A consumer is the one that reads or consumes messages posts from the Kafka cluster. One or several consumers could consume different kind of data from the cluster. The great part of Kafka is that every consumer understands where it has to consume the data.
 - **Brokers**: In Kafka terms, a Kafka server is referred to as a broker. A broker is a person or an organization that links producers and consumers. If any producer wants to write data to the cluster, it is initiated in the Kafka server. All brokers lie within a Kafka cluster itself. Furthermore, one can be a multiple broker.
 
