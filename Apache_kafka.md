@@ -62,4 +62,10 @@ Apache Kafka is a software platform that has the following reasons which best fi
 
 Today Apache Kafka has become the backbone of the real-time data feed and streaming applications. While deploying it has a distributed architecture, scalability, high throughput, and fault tolerance, it is a very effective tool when dealing with large amounts of data streams. Based on the overview of Kafka principles, architecture and most common applications, organizations can benefit from applying Kafka’s potential and achieve creation of sound, scalable and effective data pipelines. As the methods of data processing are evolving, Kafka remains an essential part of the modern data platform.
 
+# References
+
+https://www.javatpoint.com/apache-kafka
+https://www.geeksforgeeks.org/apache-kafka/
+https://kafka.apache.org/
+
  
