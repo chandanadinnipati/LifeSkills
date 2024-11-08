@@ -64,8 +64,8 @@ Today Apache Kafka has become the backbone of the real-time data feed and stream
 
 # References
 
-https://www.javatpoint.com/apache-kafka
-https://www.geeksforgeeks.org/apache-kafka/
-https://kafka.apache.org/
+- https://www.javatpoint.com/apache-kafka
+- https://www.geeksforgeeks.org/apache-kafka/
+- https://kafka.apache.org/
 
  
